@@ -34,7 +34,7 @@ Originally a AstrakoBot fork, Lumine evolved further and was built to be more ro
 
 * Bot link:  <a href="https://t.me/MissLumineBot" alt="Lumine"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Lumine-yellow" /> </a>
 
-* Support group:  <a href="https://t.me/AstrakoBotSupport" alt="AstrakoBotSupport"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
+* Support group:  <a href="https://t.me/LumineBotSupport" alt="LumineBotSupport"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 
 * Recommended federation:  <a href="https://t.me/ALTF4Fed" alt="ALTF4Fed"> <img src="https://img.shields.io/badge/🚫-ALTF4Fed-red" /> </a>
 
@@ -44,7 +44,7 @@ In support group you can ask for help, discover/request new features, report bug
 ## How to setup/deploy.
 
 ### Read these notes carefully before proceeding 
- - Edit any mentions of @AstrakoBotSupport to your own support chat
+ - Edit any mentions of @LumineBotSupport to your own support chat
  - Your code must be open source and a link to your fork's repository must be there in the start reply of the bot
  - This repo does not come with technical support, so DO NOT come to us asking help about deploy/console errors
  
@@ -186,4 +186,4 @@ All original credits go to Paul and AnimeKaizoku, Without their efforts, this fo
 
 Any other authorship/credits can be seen through the commits.
 
-Should any be missing kindly let us know at [AstrakoBotSupport](https://t.me/AstrakoBotSupport) or simply submit a pull request on the readme.
+Should any be missing kindly let us know at [LumineBotSupport](https://t.me/LumineBotSupport) or simply submit a pull request on the readme.
