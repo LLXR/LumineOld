@@ -1,13 +1,13 @@
 {
-   "name": "AstrakoBot",
+   "name": "Lumine",
       "description": "Telegram group management bot.",
       "keywords": [
          "telegram",
          "group",
          "manager",
-         "AstrakoBot"
+         "Lumine"
       ],   
-   "repository": "https://github.com/LightLegendXR/AstrakoBot",
+   "repository": "https://github.com/LightLegendXR/Lumine",
    "addons": [
       {
          "options": {

@@ -64,12 +64,12 @@ RUN apt update && apt upgrade -y && \
 # Pypi package Repo upgrade
 RUN pip3 install --upgrade pip setuptools
 
-# Copy Python Requirements to /root/AstrakoBot
-RUN git clone -b shiken https://github.com/LightLegendXR/AstrakoBot /root/AstrakoBot
-WORKDIR /root/AstrakoBot
+# Copy Python Requirements to /root/Lumine
+RUN git clone -b shiken https://github.com/LightLegendXR/Lumine /root/Lumine
+WORKDIR /root/Lumine
 
-#Copy config file to /root/AstrakoBot/AstrakoBot
-COPY ./AstrakoBot/sample_config.py ./AstrakoBot/config.py* /root/AstrakoBot/AstrakoBot/
+#Copy config file to /root/Lumine/Lumine
+COPY ./Lumine/sample_config.py ./Lumine/config.py* /root/Lumine/Lumine/
 
 ENV PATH="/home/bot/bin:$PATH"
 
@@ -77,4 +77,4 @@ ENV PATH="/home/bot/bin:$PATH"
 RUN pip3 install -U -r requirements.txt
 
 # Starting Worker
-CMD ["python3","-m","AstrakoBot"]
+CMD ["python3","-m","Lumine"]

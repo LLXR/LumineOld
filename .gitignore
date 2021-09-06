@@ -1,16 +1,16 @@
 # Config files, logs and stuff
-AstrakoBot/modules/helper_funcs/temp.txt
-AstrakoBot/elevated_users.json
-AstrakoBot/config.py
-AstrakoBot/config.ini
+Lumine/modules/helper_funcs/temp.txt
+Lumine/elevated_users.json
+Lumine/config.py
+Lumine/config.ini
 log.txt
 kangsticker.png
 updates.txt
 
 # Session files
-AstrakoBot/*.session
-AstrakoBot/*.session-journal
-astrakobot.session-journal
+Lumine/*.session
+Lumine/*.session-journal
+Lumine.session-journal
 *.session-journal
 *.session
 

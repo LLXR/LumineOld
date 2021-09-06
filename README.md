@@ -1,36 +1,36 @@
 ![Lumine](https://telegra.ph/file/7723370b4e33f2914397a.png)
 # Lumine
 <p align="center">
-<a href="https://www.codacy.com/gh/Astrako/AstrakoBot/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Astrako/AstrakoBot&amp;utm_campaign=Badge_Grade" alt="Codacy Badge">
+<a href="https://www.codacy.com/gh/Astrako/Lumine/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Astrako/Lumine&amp;utm_campaign=Badge_Grade" alt="Codacy Badge">
 <img src="https://app.codacy.com/project/badge/Grade/972e73015aaa4096bf109a79acae8afb" /> </a>
-<a href="https://github.com/LightLegendXR/AstrakoBot" alt="Libraries.io dependency status for GitHub repo"> <img src="https://img.shields.io/librariesio/github/Astrako/AstrakoBot?style=flat&logo=github&color=red" /> </a>
-<a href="http://hits.dwyl.com/Astrako/AstrakoBot" alt="HitCount"> <img src="http://hits.dwyl.com/Astrako/AstrakoBot.svg" /> </a>
-<a href="https://github.com/LightLegendXR/AstrakoBot/network/members" alt="GitHub stars"> <img src="https://img.shields.io/github/stars/Astrako/AstrakoBot?style=flat&logo=github&color=yellow" /> </a>
-<a href="https://github.com/LightLegendXR/AstrakoBot/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/Astrako/AstrakoBot" /> </a>
+<a href="https://github.com/LightLegendXR/Lumine" alt="Libraries.io dependency status for GitHub repo"> <img src="https://img.shields.io/librariesio/github/Astrako/Lumine?style=flat&logo=github&color=red" /> </a>
+<a href="http://hits.dwyl.com/Astrako/Lumine" alt="HitCount"> <img src="http://hits.dwyl.com/Astrako/Lumine.svg" /> </a>
+<a href="https://github.com/LightLegendXR/Lumine/network/members" alt="GitHub stars"> <img src="https://img.shields.io/github/stars/Astrako/Lumine?style=flat&logo=github&color=yellow" /> </a>
+<a href="https://github.com/LightLegendXR/Lumine/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/Astrako/Lumine" /> </a>
 </p>
 <p align="center">
-<a href="https://github.com/LightLegendXR/AstrakoBot" alt="GitHub commit activity"> <img src="https://img.shields.io/github/commit-activity/m/Astrako/AstrakoBot" /> </a>
-<a href="https://github.com/LightLegendXR/AstrakoBot/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/Astrako/AstrakoBot?style=flat&logo=github" /> </a>
-<a href="https://github.com/LightLegendXR/AstrakoBot" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/Astrako/AstrakoBot?color=success" /> </a>
-<a href="https://github.com/LightLegendXR/AstrakoBot" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/Astrako/AstrakoBot?style=flat&logo=github&color=red" /> </a>
-<a href="https://github.com/LightLegendXR/AstrakoBot" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/Astrako/AstrakoBot?style=flat&logo=github&color=success" /> </a>
+<a href="https://github.com/LightLegendXR/Lumine" alt="GitHub commit activity"> <img src="https://img.shields.io/github/commit-activity/m/Astrako/Lumine" /> </a>
+<a href="https://github.com/LightLegendXR/Lumine/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/Astrako/Lumine?style=flat&logo=github" /> </a>
+<a href="https://github.com/LightLegendXR/Lumine" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/Astrako/Lumine?color=success" /> </a>
+<a href="https://github.com/LightLegendXR/Lumine" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/Astrako/Lumine?style=flat&logo=github&color=red" /> </a>
+<a href="https://github.com/LightLegendXR/Lumine" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/Astrako/Lumine?style=flat&logo=github&color=success" /> </a>
 </p>
 <p align="center">
 <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/made%20with-Python-1f425f.svg?style=flat&logo=python&color=blue" /> </a>
-<a href="https://github.com/LightLegendXR/AstrakoBot" alt="Python supported versions"> <img src="https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8%20%7C%203.9-blue" /> </a>
-<a href="https://github.com/LightLegendXR/AstrakoBot" alt="pypi version"> <img src="https://img.shields.io/badge/pypi-v13.5-blue" /> </a>
-<a href="https://github.com/LightLegendXR/AstrakoBot" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/Astrako/AstrakoBot" /> </a>
-<a href="https://github.com/LightLegendXR/AstrakoBot/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/github/license/Astrako/AstrakoBot?style=flat&logo=github&color=success" /> </a>
+<a href="https://github.com/LightLegendXR/Lumine" alt="Python supported versions"> <img src="https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8%20%7C%203.9-blue" /> </a>
+<a href="https://github.com/LightLegendXR/Lumine" alt="pypi version"> <img src="https://img.shields.io/badge/pypi-v13.5-blue" /> </a>
+<a href="https://github.com/LightLegendXR/Lumine" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/Astrako/Lumine" /> </a>
+<a href="https://github.com/LightLegendXR/Lumine/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/github/license/Astrako/Lumine?style=flat&logo=github&color=success" /> </a>
 </p>
 <p align="center">
 <a href="" alt="Astrako"> <img src="https://img.shields.io/badge/built%20by-Astrako-blue" /> </a>
-<a href="https://github.com/Astrako/AstrakoBot/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/maintained%3F-yes-blue.svg" /> </a>
+<a href="https://github.com/Astrako/Lumine/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/maintained%3F-yes-blue.svg" /> </a>
 <a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-blue.svg" /> </a>
 </p>
 
 A modular Telegram Python bot running on python3 with a sqlalchemy database.
 
-Originally a AstrakoBot fork, Lumine evolved further and was built to be more robust. 
+Originally a Lumine fork, Lumine evolved further and was built to be more robust. 
 
 * Bot link:  <a href="https://t.me/MissLumineBot" alt="Lumine"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Lumine-yellow" /> </a>
 
@@ -59,7 +59,7 @@ Turn on worker dyno (Don't worry It's free :D) & Webhook
 Now send the bot /start, If it doesn't respond go to https://dashboard.heroku.com/apps/(app-name)/settings and remove webhook and port.
 ```
 
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LightLegendXR/AstrakoBot.git)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LightLegendXR/Lumine.git)
 
 </details>   
 <details>
@@ -74,7 +74,7 @@ This is because markdown parsing is done by iterating through a dict, which is o
 There are two possible ways of configuring your bot: a config.py file, or ENV variables.
 
 The preferred version is to use a `config.py` file, as it makes it easier to see all your settings grouped together.
-This file should be placed in your `AstrakoBot` folder, alongside the `__main__.py` file. 
+This file should be placed in your `Lumine` folder, alongside the `__main__.py` file. 
 This is where your bot token will be loaded from, as well as your database URI (if you're using a database), and most of
 your other settings.
 
@@ -83,7 +83,7 @@ defaults set in the sample_config, hence making it easier to upgrade.
 
 An example `config.py` file could be:
 ```
-from AstrakoBot.sample_config import Config
+from Lumine.sample_config import Config
 
 class Development(Config):
     OWNER_ID = 254318997  # your telegram ID
@@ -169,7 +169,7 @@ All that is needed is that your .py file is in the modules folder.
 
 To add commands, make sure to import the dispatcher via
 
-`from AstrakoBot import dispatcher`.
+`from Lumine import dispatcher`.
 
 You can then add commands using the usual
 
@@ -189,7 +189,7 @@ through the `/stats` command, which is only available to the bot owner.
 
 Once you've set up your database and your configuration is complete, simply run (Linux):
 
-`python3 -m AstrakoBot`
+`python3 -m Lumine`
 
 For queries or any issues regarding the bot please open an issue ticket or visit us at [LumineBotSupport](https://t.me/LumineBotSupport)
 
