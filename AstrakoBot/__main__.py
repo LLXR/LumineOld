@@ -101,7 +101,7 @@ And the following:
 ASTRAKOBOT_IMG = "https://telegra.ph/file/7723370b4e33f2914397a.png"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
-AstrakoBot is hosted on its own server and doesn't require any donations as of now but \
+Lumine is hosted on its own server and doesn't require any donations as of now but \
 You can donate to the original writer of the Base code, @LightLegendXR
 There are two ways of supporting him; [PayPal](paypal.me/StopLookingAtMyPic)."""
 
