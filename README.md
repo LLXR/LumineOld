@@ -177,7 +177,7 @@ Once you've set up your database and your configuration is complete, simply run 
 
 `python3 -m AstrakoBot`
 
-For queries or any issues regarding the bot please open an issue ticket or visit us at [AstrakoBotSupport](https://t.me/AstrakoBotSupport)
+For queries or any issues regarding the bot please open an issue ticket or visit us at [LumineBotSupport](https://t.me/LumineBotSupport)
 
 
 ## Credits
