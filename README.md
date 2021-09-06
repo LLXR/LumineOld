@@ -36,7 +36,7 @@ Originally a AstrakoBot fork, Lumine evolved further and was built to be more ro
 
 * Support group:  <a href="https://t.me/LumineBotSupport" alt="LumineBotSupport"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 
-* Recommended federation:  <a href="https://t.me/ALTF4Fed" alt="ALTF4Fed"> <img src="https://img.shields.io/badge/🚫-ALTF4Fed-red" /> </a>
+* Recommended federation:  <a href="https://t.me/LLXRFed/3" alt="LLXRFed"> <img src="https://img.shields.io/badge/🚫-LLXRFed-red" /> </a>
 
 In support group you can ask for help, discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
