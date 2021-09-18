@@ -498,8 +498,6 @@ __help__ = """
  • `/title <title here>`*:* sets a custom title for an admin that the bot promoted
  • `/admincache`*:* force refresh the admins list
  • `/zombies`*:* scan and clean zombies
- •`/setgpic: As a reply to file or photo to set group profile pic
-• `/delgpic: Remove group profile pic
 """
 
 ADMINLIST_HANDLER = DisableAbleCommandHandler("admins", adminlist, run_async=True)
@@ -522,8 +520,6 @@ ADMIN_REFRESH_HANDLER = CommandHandler(
 
 dispatcher.add_handler(ADMINLIST_HANDLER)
 dispatcher.add_handler(PIN_HANDLER)
-dispatcher.add_handler(CHAT_PIC_HANDLER)
-dispatcher.add_handler(DEL_CHAT_PIC_HANDLER)
 dispatcher.add_handler(UNPIN_HANDLER)
 dispatcher.add_handler(INVITE_HANDLER)
 dispatcher.add_handler(PROMOTE_HANDLER)
