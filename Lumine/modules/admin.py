@@ -316,6 +316,8 @@ def rmchatpic(update, context):
     except BadRequest as excp:
         msg.reply_text(f"Error! {excp.message}.")
         return
+        
+@bot_admin        
 @can_pin
 @user_admin
 @loggable
