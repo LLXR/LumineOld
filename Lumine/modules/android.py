@@ -257,7 +257,7 @@ def orangefox(update: Update, context: CallbackContext):
             msg += f"• MD5: `{md5}`\n"
             btn = [[InlineKeyboardButton(text=f"Download", url = dl_link)]]
     else:
-        msg = 'Give me something to fetch, like:\n`/orangefox a3y17lte`'
+        msg = 'Give me something to fetch, like:\n`/orangefox beyond2lte`'
 
     delmsg = message.reply_text(
         text = msg,
@@ -296,7 +296,7 @@ def twrp(update: Update, context: CallbackContext):
             msg += f"• File: `{dl_file}`\n\n"
             btn = [[InlineKeyboardButton(text=f"Download", url = dl_link)]]
     else:
-        msg = 'Give me something to fetch, like:\n`/twrp a3y17lte`'
+        msg = 'Give me something to fetch, like:\n`/twrp beyond2lte`'
 
     delmsg = message.reply_text(
         text = msg,
