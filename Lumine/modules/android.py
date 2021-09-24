@@ -272,6 +272,59 @@ def orangefox(update: Update, context: CallbackContext):
         context.dispatcher.run_async(delete, delmsg, cleartime.time)
 
 
+def shrp(update: Update, context: CallbackContext):
+    bot = context.bot
+    args = context.args
+    if len(args) == 0:
+        reply = 'Give me something to fetch, like:\n`/shrp beyond2lte.'
+        del_msg = update.effective_message.reply_text(
+            "{}".format(reply),
+            parse_mode=ParseMode.MARKDOWN,
+            disable_web_page_preview=True)
+        time.sleep(5)
+        try:
+            del_msg.delete()
+            update.effective_message.delete()
+            return
+        except BadRequest as err:
+            if (err.message == "Message to delete not found") or (
+                    err.message == "Message can't be deleted"):
+                return
+
+    device = " ".join(args)
+    url = get(f'https://sourceforge.net/projects/shrp/files/{device}/')
+    if url.status_code == 404:
+        reply = f"Couldn't find shrp downloads for {device}!\n"
+        del_msg = update.effective_message.reply_text(
+            "{}".format(reply),
+            parse_mode=ParseMode.MARKDOWN,
+            disable_web_page_preview=True)
+        time.sleep(5)
+        try:
+            del_msg.delete()
+            update.effective_message.delete()
+        except BadRequest as err:
+            if (err.message == "Message to delete not found") or (
+                    err.message == "Message can't be deleted"):
+                return
+    else:
+        reply = f'*Official SHRP for {device}*\n'
+        db = get(DEVICES_DATA).json()
+        newdevice = device.strip('lte') if device.startswith(
+            'beyond') else device
+        try:
+            brand = db[newdevice][0]['brand']
+            name = db[newdevice][0]['name']
+            reply += f'*{brand} - {name}*\n'
+        except KeyError as err:
+            pass
+        reply += f"https://sourceforge.net/projects/shrp/files/{device}"
+
+        update.message.reply_text("{}".format(reply),
+                                  parse_mode=ParseMode.MARKDOWN,
+                                  disable_web_page_preview=True)
+        
+        
 def twrp(update: Update, context: CallbackContext):
     message = update.effective_message
     chat = update.effective_chat
@@ -331,6 +384,7 @@ __help__ = """
 MAGISK_HANDLER = CommandHandler(["magisk", "root", "su"], magisk, run_async=True)
 ORANGEFOX_HANDLER = CommandHandler("orangefox", orangefox, run_async=True)
 TWRP_HANDLER = CommandHandler("twrp", twrp, run_async=True)
+SHRP_HANDLER = DisableAbleCommandHandler("shrp", shrp, run_async=True)
 GETFW_HANDLER = CommandHandler("getfw", getfw, run_async=True)
 CHECKFW_HANDLER = CommandHandler("checkfw", checkfw, run_async=True)
 PHH_HANDLER = CommandHandler("phh", phh, run_async=True)
@@ -340,6 +394,7 @@ MIUI_HANDLER = CommandHandler("miui", miui, run_async=True)
 dispatcher.add_handler(MAGISK_HANDLER)
 dispatcher.add_handler(ORANGEFOX_HANDLER)
 dispatcher.add_handler(TWRP_HANDLER)
+dispatcher.add_handler(SHRP_HANDLER)
 dispatcher.add_handler(GETFW_HANDLER)
 dispatcher.add_handler(CHECKFW_HANDLER)
 dispatcher.add_handler(PHH_HANDLER)
