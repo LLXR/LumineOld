@@ -1,30 +1,30 @@
 ![Lumine](https://telegra.ph/file/7723370b4e33f2914397a.png)
 # Lumine
 <p align="center">
-<a href="https://www.codacy.com/gh/Astrako/Lumine/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Astrako/Lumine&amp;utm_campaign=Badge_Grade" alt="Codacy Badge">
+<a href="https://www.codacy.com/gh/LightLegendXR/Lumine/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=LightLegendXR/Lumine&amp;utm_campaign=Badge_Grade" alt="Codacy Badge">
 <img src="https://app.codacy.com/project/badge/Grade/972e73015aaa4096bf109a79acae8afb" /> </a>
-<a href="https://github.com/LightLegendXR/Lumine" alt="Libraries.io dependency status for GitHub repo"> <img src="https://img.shields.io/librariesio/github/Astrako/Lumine?style=flat&logo=github&color=red" /> </a>
-<a href="http://hits.dwyl.com/Astrako/Lumine" alt="HitCount"> <img src="http://hits.dwyl.com/Astrako/Lumine.svg" /> </a>
-<a href="https://github.com/LightLegendXR/Lumine/network/members" alt="GitHub stars"> <img src="https://img.shields.io/github/stars/Astrako/Lumine?style=flat&logo=github&color=yellow" /> </a>
-<a href="https://github.com/LightLegendXR/Lumine/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/Astrako/Lumine" /> </a>
+<a href="https://github.com/LightLegendXR/Lumine" alt="Libraries.io dependency status for GitHub repo"> <img src="https://img.shields.io/librariesio/github/LightLegendXR/Lumine?style=flat&logo=github&color=red" /> </a>
+<a href="http://hits.dwyl.com/LightLegendXR/Lumine" alt="HitCount"> <img src="http://hits.dwyl.com/LightLegendXR/Lumine.svg" /> </a>
+<a href="https://github.com/LightLegendXR/Lumine/network/members" alt="GitHub stars"> <img src="https://img.shields.io/github/stars/LightLegendXR/Lumine?style=flat&logo=github&color=yellow" /> </a>
+<a href="https://github.com/LightLegendXR/Lumine/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/LightLegendXR/Lumine" /> </a>
 </p>
 <p align="center">
-<a href="https://github.com/LightLegendXR/Lumine" alt="GitHub commit activity"> <img src="https://img.shields.io/github/commit-activity/m/Astrako/Lumine" /> </a>
-<a href="https://github.com/LightLegendXR/Lumine/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/Astrako/Lumine?style=flat&logo=github" /> </a>
-<a href="https://github.com/LightLegendXR/Lumine" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/Astrako/Lumine?color=success" /> </a>
-<a href="https://github.com/LightLegendXR/Lumine" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/Astrako/Lumine?style=flat&logo=github&color=red" /> </a>
-<a href="https://github.com/LightLegendXR/Lumine" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/Astrako/Lumine?style=flat&logo=github&color=success" /> </a>
+<a href="https://github.com/LightLegendXR/Lumine" alt="GitHub commit activity"> <img src="https://img.shields.io/github/commit-activity/m/LightLegendXR/Lumine" /> </a>
+<a href="https://github.com/LightLegendXR/Lumine/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/LightLegendXR/Lumine?style=flat&logo=github" /> </a>
+<a href="https://github.com/LightLegendXR/Lumine" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/LightLegendXR/Lumine?color=success" /> </a>
+<a href="https://github.com/LightLegendXR/Lumine" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/LightLegendXR/Lumine?style=flat&logo=github&color=red" /> </a>
+<a href="https://github.com/LightLegendXR/Lumine" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/LightLegendXR/Lumine?style=flat&logo=github&color=success" /> </a>
 </p>
 <p align="center">
 <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/made%20with-Python-1f425f.svg?style=flat&logo=python&color=blue" /> </a>
 <a href="https://github.com/LightLegendXR/Lumine" alt="Python supported versions"> <img src="https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8%20%7C%203.9-blue" /> </a>
 <a href="https://github.com/LightLegendXR/Lumine" alt="pypi version"> <img src="https://img.shields.io/badge/pypi-v13.5-blue" /> </a>
-<a href="https://github.com/LightLegendXR/Lumine" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/Astrako/Lumine" /> </a>
-<a href="https://github.com/LightLegendXR/Lumine/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/github/license/Astrako/Lumine?style=flat&logo=github&color=success" /> </a>
+<a href="https://github.com/LightLegendXR/Lumine" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/LightLegendXR/Lumine" /> </a>
+<a href="https://github.com/LightLegendXR/Lumine/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/github/license/LightLegendXR/Lumine?style=flat&logo=github&color=success" /> </a>
 </p>
 <p align="center">
-<a href="" alt="Astrako"> <img src="https://img.shields.io/badge/built%20by-Astrako-blue" /> </a>
-<a href="https://github.com/Astrako/Lumine/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/maintained%3F-yes-blue.svg" /> </a>
+<a href="" alt="LightLegendXR"> <img src="https://img.shields.io/badge/built%20by-LightLegendXR-blue" /> </a>
+<a href="https://github.com/LightLegendXR/Lumine/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/maintained%3F-yes-blue.svg" /> </a>
 <a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-blue.svg" /> </a>
 </p>
 
